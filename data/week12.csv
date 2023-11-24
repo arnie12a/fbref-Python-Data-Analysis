@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,L,GF,GA,GD,Pts,Pts/MP,Last 5,Top_Team_Scorer_Name,Top_Team_Scorer_Num_Goals
+1,Manchester City,12,9,2,32,12,20,28,2.33,L W W W D,Erling Haaland , 13
+2,Liverpool,12,8,1,27,10,17,27,2.25,D W W D W,Mohamed Salah , 10
+3,Arsenal,12,8,1,26,10,16,27,2.25,W D W L W,Eddie Nketiah , 5
+4,Tottenham,12,8,2,24,15,9,26,2.17,W W W L L,Son Heung, 8
+5,Aston Villa,12,8,3,29,17,12,25,2.08,D W W L W,Ollie Watkins , 6
+6,Manchester Utd,12,7,5,13,16,-3,21,1.75,W W L W W,"Bruno Fernandes, Scott McTominay ", 3
+7,Newcastle Utd,12,6,4,27,13,14,20,1.67,D W D W L,Callum Wilson , 7
+8,Brighton,12,5,3,25,21,4,19,1.58,D L D D D,Evan Ferguson , 5
+9,West Ham,12,5,5,21,22,-1,17,1.42,D L L L W,Jarrod Bowen , 8
+10,Chelsea,12,4,4,21,16,5,16,1.33,W D L W D,Nicolas Jackson , 6
+11,Brentford,12,4,4,19,17,2,16,1.33,L W W W L,Bryan Mbeumo , 6
+12,Wolves,12,4,5,16,20,-4,15,1.25,D W D L W,Hwang Hee, 6
+13,Crystal Palace,12,4,5,12,16,-4,15,1.25,D L L W L,Odsonne Édouard , 5
+14,Nott'ham Forest,12,3,5,14,18,-4,13,1.08,D D L W L,Taiwo Awoniyi , 4
+15,Fulham,12,3,6,10,20,-10,12,1.0,W L D L L,"Bobby Reid, João Palhinha ", 2
+16,Bournemouth,12,2,7,11,27,-16,9,0.75,L L W L W,Dominic Solanke , 6
+17,Luton Town,12,1,8,10,22,-12,6,0.5,L D L D L,Carlton Morris , 3
+18,Sheffield Utd,12,1,9,10,31,-21,5,0.42,L L L W D,"Gustavo Hamer, Cameron Archer ", 2
+19,Everton,12,4,6,14,17,-3,4,0.33,W L W D W,Abdoulaye Doucouré , 4
+20,Burnley,12,1,10,9,30,-21,4,0.33,L L L L L,Lyle Foster , 3
