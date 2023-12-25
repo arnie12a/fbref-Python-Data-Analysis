@@ -7,15 +7,15 @@ weeks = [12,13,14,15,16,17]
 app = Dash(__name__)
 
 app.layout = html.Div([
-    html.H1(children='Premier League Table', style={'textAlign':'center'}),
-    html.P(children='Select Week'),
-    dcc.Dropdown(weeks, 12, id='dropdown-selection'),
+    html.H1(children='Total Points : EPL 2023 - 2024', style={'textAlign':'center'}),
+    html.P(children='Select Week', style={'marginLeft': 20}),
+    dcc.Slider(12, 17, 1, value=12, id='slider-selection'),
     dcc.Graph(id='graph-content')
 ])
 
 @callback(
     Output('graph-content', 'figure'),
-    Input('dropdown-selection', 'value')
+    Input('slider-selection', 'value')
 )
 def update_graph(value):
 
@@ -26,7 +26,6 @@ def update_graph(value):
     fig = px.bar(df, 
              x=df.Squad, 
              y=df.Pts,   
-             title="Total Points : EPL 2023 - 2024",
              color=df.Pts,
              text=df.Pts,
              color_continuous_scale="oranges",

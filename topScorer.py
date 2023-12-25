@@ -9,13 +9,13 @@ app = Dash(__name__)
 app.layout = html.Div([
     html.H1(children='Percentage of Goals of Leading Goal Scorers on every Premier League Team', style={'textAlign':'center'}),
     html.P(children='Select Week'),
-    dcc.Dropdown(weeks, 12, id='dropdown-selection'),
+    dcc.Slider(12, 17, 1, value=12, id='slider-selection'),
     dcc.Graph(id='graph-content')
 ])
 
 @callback(
     Output('graph-content', 'figure'),
-    Input('dropdown-selection', 'value')
+    Input('slider-selection', 'value')
 )
 def update_graph(value):
 
