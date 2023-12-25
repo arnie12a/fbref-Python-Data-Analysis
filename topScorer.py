@@ -8,7 +8,7 @@ app = Dash(__name__)
 
 app.layout = html.Div([
     html.H1(children='Percentage of Goals of Leading Goal Scorers on every Premier League Team', style={'textAlign':'center'}),
-    html.P(children='Select Week'),
+    html.P(children='Select Week', style={"marginLeft": 20}),
     dcc.Slider(12, 17, 1, value=12, id='slider-selection'),
     dcc.Graph(id='graph-content')
 ])
