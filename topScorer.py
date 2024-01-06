@@ -2,14 +2,14 @@ from dash import Dash, html, dcc, callback, Output, Input
 import plotly.express as px
 import pandas as pd
 
-weeks = [12,13,14,15,16,17]
+weeks = [12,13,14,15,16,17,20]
 
 app = Dash(__name__)
 
 app.layout = html.Div([
     html.H1(children='Percentage of Goals of Leading Goal Scorers on every Premier League Team', style={'textAlign':'center'}),
     html.P(children='Select Week', style={"marginLeft": 20}),
-    dcc.Slider(12, 17, 1, value=12, id='slider-selection'),
+    dcc.Slider(12, 20, 1, value=12, id='slider-selection'),
     dcc.Graph(id='graph-content')
 ])
 

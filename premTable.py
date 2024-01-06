@@ -2,7 +2,7 @@ from dash import Dash, html, dcc, callback, Output, Input
 import plotly.express as px
 import pandas as pd
 
-weeks = [12,13,14,15,16,17]
+weeks = [12,13,14,15,16,17,20]
 
 app = Dash(__name__)
 
