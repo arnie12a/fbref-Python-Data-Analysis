@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,L,GF,GA,GD,Pts,Pts/MP,Last 5,Top_Team_Scorer_Name,Top_Team_Scorer_Num_Goals
+1,Liverpool,25,17,2,59,24,35,57,2.28,W W L W W,Mohamed Salah ,15
+2,Manchester City,25,17,3,58,26,32,56,2.24,W W W D W,Erling Haaland ,17
+3,Arsenal,25,17,4,58,22,36,55,2.2,W W W W W,Bukayo Saka ,12
+4,Aston Villa,25,15,6,52,33,19,49,1.96,D L W L W,Ollie Watkins ,13
+5,Tottenham,25,14,6,52,38,14,47,1.88,D W D W L,Son Heungmin ,12
+6,Manchester Utd,25,14,9,35,34,1,44,1.76,D W W W W,"Scott McTominay, Rasmus Højlund ",7
+7,Brighton,25,10,7,48,40,8,38,1.52,D L W L W,João Pedro ,8
+8,Newcastle Utd,25,11,10,53,41,12,37,1.48,L W D W D,Alexander Isak ,10
+9,West Ham,25,10,9,36,44,-8,36,1.44,D D L L L,Jarrod Bowen ,11
+10,Chelsea,25,10,10,42,41,1,35,1.4,W L L W D,Cole Palmer ,10
+11,Wolves,25,10,10,39,40,-1,35,1.4,D L W L W,Hwang Heechan ,10
+12,Fulham,25,8,12,34,41,-7,29,1.16,L D D W L,"Raúl Jiménez, Bobby Reid ",5
+13,Bournemouth,24,7,10,33,46,-13,28,1.17,L D D L D,Dominic Solanke ,14
+14,Brentford,25,7,14,35,44,-9,25,1.0,L L W L L,Bryan Mbeumo ,7
+15,Crystal Palace,25,6,12,28,44,-16,25,1.0,L W L L D,"Odsonne Édouard, Michael Olise ",6
+16,Nott'ham Forest,25,6,13,32,44,-12,24,0.96,L L D L W,Chris Wood ,8
+17,Everton,25,8,11,27,33,-6,20,0.8,D D D L D,Abdoulaye Doucouré ,6
+18,Luton Town,24,5,14,34,47,-13,20,0.83,D W D L L,Elijah Adebayo ,9
+19,Burnley,25,3,18,25,55,-30,13,0.52,D L D L L,"Lyle Foster, Zeki Amdouni ",4
+20,Sheffield Utd,25,3,18,22,65,-43,13,0.52,D L L W L,"Oliver McBurnie, Cameron Archer ",4
